@@ -1,0 +1,70 @@
+{
+    "products":
+        {
+        "A":[
+                {
+                    "Name":"AccuRev",
+                    "description":"An application lifecycle solution that unleashes the power of development teams",
+                    "contact":true,
+                    "free trial":true,
+                    "demo":true,
+                    "Add-ons":true,
+                    "community":true,
+                    "support":true
+                },
+                {
+                    "Name":"Acu4GL",
+                    "description":"Transparent access from ACUCOBOL-GT to Relational Database Management Systems (RDBMS).",
+                    "contact":false,
+                    "free trial":true,
+                    "demo":false,
+                    "Add-ons":true,
+                    "community":false,
+                    "support":true
+                },
+                {
+                    "Name":"Acubench",
+                    "description":"Transparent access from ACUCOBOL-GT to Relational Database Management Systems (RDBMS).",
+                    "contact":false,
+                    "free trial":true,
+                    "demo":true,
+                    "Add-ons":true,
+                    "community":false,
+                    "support":false
+                }
+            ],
+        "B":[
+            {
+                "Name":"Backup Navigator",
+                "description":"Advanced analytics and reporting application for Data Protector environments",
+                "contact":true,
+                "free trial":false,
+                "demo":true,
+                "Add-ons":false,
+                "community":true,
+                "support":true
+            },
+            
+            {
+                "Name":"Babel Reputation Monitoring and Protection – Powered by IDOL",
+                "description":"Babel Reputation Monitoring and Protection – Powered by IDOL",
+                "contact":true,
+                "free trial":true,
+                "demo":true,
+                "Add-ons":true,
+                "community":false,
+                "support":true
+            },
+            {
+                "Name":"Babel Reputation Monitoring and Protection – Powered by IDOL",
+                "description":"Babel Reputation Monitoring and Protection – Powered by IDOL",
+                "contact":true,
+                "free trial":true,
+                "demo":false,
+                "Add-ons":false,
+                "community":false,
+                "support":true
+            }
+            ]
+        }
+}

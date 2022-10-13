@@ -1,0 +1,43 @@
+$color1 :#fff;
+.content{
+    padding: 70px 20px 40px 20px;
+    h1{
+        font-size: 54px;
+        color: $color1;
+    }
+    h3{
+        color: $color1; 
+    }
+}
+.subcontent{
+    font-size: 24px;
+}
+.uk-search{
+    background-color: $color1;
+}
+.img{
+    height: 320px;
+}
+@media screen and (max-width: 640px){
+    .header{
+        background-color: #003b95;
+        h1{
+            font-size: 24px;
+            font-weight: 300;
+        }
+        h3{
+            font-size: 16px;
+            font-weight: 100;
+        }
+    }
+    .img{
+        height: 200px;
+        display: none;
+    }
+    .content{
+        padding-top: 30px;
+        h3{
+            width: 70%;
+        }
+    }
+}
